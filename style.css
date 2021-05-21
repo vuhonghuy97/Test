@@ -1,0 +1,14 @@
+.wrapper {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+.titlle {
+    background-color: red;
+    color: white;
+}
+.wrappre__content {
+    background-color: rgb(60, 106, 190);
+    margin-top: -21px;
+    padding: 10px;
+}
